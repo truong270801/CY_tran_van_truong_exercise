@@ -1,0 +1,12 @@
+{
+    "name": "fe_cy",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "watch": "sass  --watch ./scss/:./css",
+      "build": "sass ./scss/style.scss ./css/style.css"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
